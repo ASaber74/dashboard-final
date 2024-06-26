@@ -1,0 +1,16 @@
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 0px;
+  padding: 10px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+highcharts-chart {
+  width: 100% !important;
+  height: 100% !important;
+}

@@ -7,9 +7,9 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\Angular\dashboard-task\node_modules\bootstrap\dist\css\bootstrap.min.css */"q4sD");
-__webpack_require__(/*! E:\Angular\dashboard-task\node_modules\jqwidgets-ng\jqwidgets\styles\jqx.base.css */"qRum");
-module.exports = __webpack_require__(/*! E:\Angular\dashboard-task\src\styles.css */"OmL/");
+__webpack_require__(/*! C:\Users\asaber\Downloads\dashboard-angular-main\node_modules\bootstrap\dist\css\bootstrap.min.css */"q4sD");
+__webpack_require__(/*! C:\Users\asaber\Downloads\dashboard-angular-main\node_modules\jqwidgets-ng\jqwidgets\styles\jqx.base.css */"qRum");
+module.exports = __webpack_require__(/*! C:\Users\asaber\Downloads\dashboard-angular-main\src\styles.css */"OmL/");
 
 
 /***/ }),
